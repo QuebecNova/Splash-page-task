@@ -1,6 +1,6 @@
 html {
     font-family: 'Open Sans', sans-serif;
-    background: url(originals/pattern.png);
+    background-image: url("../images/pattern.png");
   }
 
   body {
